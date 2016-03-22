@@ -16,7 +16,7 @@ public class ElasticsearchWriteSample {
 	/**
 	 * インポート用のファイルをフルパス指定
 	 */
-	private static final String DATA_FILE_NAME = "path to restaurants.csv";
+	private static final String DATA_FILE_NAME = "/Users/oga/essample/data/restaurants.csv";
 	
 	//保存先のインデックス
 	private static final String ES_HOST = "192.168.33.10";
